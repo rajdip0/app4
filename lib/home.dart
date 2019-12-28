@@ -33,7 +33,7 @@ class HomePage extends StatelessWidget {
               ),
             ),
             Positioned(
-              bottom: 350,
+              bottom: 400,
               left: 40,
               child: FloatingActionButton(
                 backgroundColor: Colors.green[700],
@@ -44,7 +44,7 @@ class HomePage extends StatelessWidget {
             ),
             Positioned(
               right: 170,
-              bottom: 350,
+              bottom: 400,
               child: FloatingActionButton(
                 backgroundColor: Colors.teal[800],
                 elevation: 0,
@@ -54,7 +54,7 @@ class HomePage extends StatelessWidget {
             ),
             Positioned(
               right: 40,
-              bottom: 350,
+              bottom: 400,
               child: FloatingActionButton(
                 backgroundColor: Colors.blue,
                 elevation: 0,
@@ -190,7 +190,7 @@ class HomePage extends StatelessWidget {
               ),
             ),
             Positioned(
-              bottom: 450,
+              bottom: 480,
               left: 40,
               child: FloatingActionButton(
                 backgroundColor: Colors.green[700],
@@ -201,7 +201,7 @@ class HomePage extends StatelessWidget {
             ),
             Positioned(
               right: 170,
-              bottom: 450,
+              bottom: 480,
               child: FloatingActionButton(
                 backgroundColor: Colors.teal[800],
                 elevation: 0,
@@ -211,7 +211,7 @@ class HomePage extends StatelessWidget {
             ),
             Positioned(
               right: 40,
-              bottom: 450,
+              bottom: 480,
               child: FloatingActionButton(
                 backgroundColor: Colors.blue,
                 elevation: 0,
